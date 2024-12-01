@@ -1,0 +1,6 @@
+@Piistech.Ecommerce.Presentation_HostAddress = http://localhost:5045
+
+GET {{Piistech.Ecommerce.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
